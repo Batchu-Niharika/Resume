@@ -1,5 +1,5 @@
-# Define the Purpose-Daily Learning
+# Daily Learning
 
-## Objective-Morning Planning
+## Morning Planning
 
 ## Scope-Review
